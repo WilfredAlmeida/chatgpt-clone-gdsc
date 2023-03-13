@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594086053321",
+    "project_id": "chatgpt-clone-103e5",
+    "storage_bucket": "chatgpt-clone-103e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594086053321:android:b5b95f03d0f1a6ccad5418",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt_clone_wilfred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594086053321-dlcve4nj2rt586br8ht7uji4m7tvp1ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvPLBkg93xxlVCJpZvGoDbTICpFs3IqN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594086053321-dlcve4nj2rt586br8ht7uji4m7tvp1ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
